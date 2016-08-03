@@ -1,4 +1,3 @@
-layout_spectrum: 0.7835718649439514
 typography_spectrum: 0.9604397201910615
 color:
   brandStrength: 0.839873981429264
@@ -11,5 +10,7 @@ color:
     - '#FF358B'
     - '#01B0F0'
     - '#AEEE00'
+layout_spectrum: 0.7835718649439514
 name: Werk Slimmer
 title: WERK SLIMMER
+description: en niet harder
