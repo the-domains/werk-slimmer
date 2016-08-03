@@ -10,7 +10,12 @@ color:
     - '#FF358B'
     - '#01B0F0'
     - '#AEEE00'
+opengraph:
+  type: ''
 layout_spectrum: 0.7835718649439514
+author:
+  email: betheproduct@icloud.com
+  url: www.DennisSchoofs.com
 name: Werk Slimmer
 title: WERK SLIMMER
 description: en niet harder
